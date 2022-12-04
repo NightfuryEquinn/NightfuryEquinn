@@ -2,7 +2,23 @@
     <b>Welcome to Overview</b>
 </h2>
 
-<!---
-Ang-dot/Ang-dot is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# This is the Working-Me
+
+
+# University Assignments
+
+
+# Self Project 
+### Status Completed
+
+
+### Status Ongoing
+
+
+### Status Upcoming
+
+
+<h4 align="center">
+    <b>End of Overview</b>
+</h4>
