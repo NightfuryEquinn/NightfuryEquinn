@@ -1,23 +1,29 @@
-<h2 align="center">
+<h1 align="center">
     <b>Welcome to Overview</b>
-</h2>
+</h1>
 
 
-# This is the Working-Me
+### This is the Working-Me
 
 
-# University Assignments
+<hr/>
+
+### University Assignments
 
 
-# Self Project 
-### Status Completed
+<hr/>
+
+### Self Projects
+###### Status Completed
 
 
-### Status Ongoing
+###### Status Ongoing
 
 
-### Status Upcoming
+###### Status Upcoming
 
+
+<hr/>
 
 <h4 align="center">
     <b>End of Overview</b>
