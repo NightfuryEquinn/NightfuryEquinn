@@ -1,19 +1,21 @@
 <h1 align="center">
-    <b>Welcome to Overview</b>
+    <b>♋️ Welcome to Overview ♋️</b>
 </h1>
 
 
-### This is the Working-Me
+### 🔥 This is the Working-Me
+- Fond of coding and programming languages.
+- The more I learnt, the happier I am.
+- Achievement-affiliated.
+
+<hr/>
+
+### 📓 University Assignments
 
 
 <hr/>
 
-### University Assignments
-
-
-<hr/>
-
-### Self Projects
+### 🍵 Self Projects
 ###### Status Completed
 
 
