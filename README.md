@@ -34,7 +34,7 @@
 - [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot)
 
 **Web Development**
-- [ME-Website](https://github.com/NightfuryEquinn/ME-Website)
+- [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
 
 ###### Status Ongoing
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II)
