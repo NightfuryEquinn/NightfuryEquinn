@@ -30,13 +30,17 @@
 
 ### 🍵 Self Projects
 ###### Status Completed
+**Python**
+- [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot)
 
+**Web Development**
+- [ME-Website](https://github.com/NightfuryEquinn/ME-Website)
 
 ###### Status Ongoing
-
+- [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II)
 
 ###### Status Upcoming
-
+- Discord Gamble Bot Mark II
 
 <hr/>
 
