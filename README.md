@@ -41,6 +41,7 @@
 
 ###### Status Upcoming
 - Discord Gamble Bot Mark II
+- Hundred Days Vineyard Simulator - Wine Star Component References
 
 <hr/>
 
