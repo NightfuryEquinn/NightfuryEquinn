@@ -6,6 +6,7 @@
 - Fond of coding and programming languages.
 - The more I learnt, the happier I am.
 - Achievement-affiliated.
+- Sometimes might speak about Physics or Astronomy for no reason.
 
 <hr/>
 
