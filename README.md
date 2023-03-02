@@ -16,15 +16,17 @@
 
 **Java**
 - [Serenitea Resort Booking System](https://github.com/NightfuryEquinn/Serenitea-Resort-Booking-System)
+- [Speed Parcel Online Order and Delivery Management System]()
 
 **Web Development in Vanilla HTML, CSS, JavaScript**
 - [Les Pets Shop](https://github.com/NightfuryEquinn/Online-Pet-Shop-Assignment)
 - [Bean Bros Wholesaler](https://github.com/NightfuryEquinn/Bean-Bros-Wholesaler)
 
 **Swift**
-
+- [Chateau Du Nox]()
 
 **R Programming**
+- [A Placement Analysis]()
 
 
 <hr/>
