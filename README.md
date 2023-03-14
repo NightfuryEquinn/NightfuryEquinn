@@ -26,7 +26,7 @@
 - [Chateau Du Nox]()
 
 **R Programming**
-- [A Placement Analysis]()
+- [A Placement Analysis](https://github.com/NightfuryEquinn/A-Placement-Analysis)
 
 
 <hr/>
