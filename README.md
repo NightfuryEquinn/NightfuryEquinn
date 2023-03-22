@@ -48,6 +48,11 @@
 
 <hr/>
 
+### ⛳️ External Events
+**Python**
+- [AWS Deepracer League]()
+
+<hr/>
 
 <h4 align="center">
     <b>End of Overview</b>
