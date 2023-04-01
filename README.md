@@ -50,7 +50,10 @@
 
 ### ⛳️ External Events
 **Python**
-- [AWS Deepracer League]()
+- [AWS Deepracer League](https://github.com/NightfuryEquinn/AWS-Deepracer)
+
+**Workshop**
+- [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop)
 
 <hr/>
 
