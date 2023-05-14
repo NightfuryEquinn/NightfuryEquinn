@@ -18,16 +18,21 @@
 - [Serenitea Resort Booking System](https://github.com/NightfuryEquinn/Serenitea-Resort-Booking-System)
 - [Speed Parcel Online Order and Delivery Management System](https://github.com/NightfuryEquinn/Speed-Parcel-OODMS)
 
-**Web Development in Vanilla HTML, CSS, JavaScript**
+**Web Development in Vanilla HTML, CSS, JavaScript (WAMP Database)**
 - [Les Pets Shop](https://github.com/NightfuryEquinn/Online-Pet-Shop-Assignment)
 - [Bean Bros Wholesaler](https://github.com/NightfuryEquinn/Bean-Bros-Wholesaler)
+
+**Web Development in ReactJS, TailwindCSS, JavaScript (C# Database)**
+- [Kohedemy](https://github.com/NightfuryEquinn/Kohedemy)
 
 **Swift**
 - [Chateau Du Nox](https://github.com/NightfuryEquinn/Chateau-Du-Nox)
 
+**Kotlin**
+- TBC
+
 **R Programming**
 - [A Placement Analysis](https://github.com/NightfuryEquinn/A-Placement-Analysis)
-
 
 <hr/>
 
@@ -36,7 +41,7 @@
 **Python**
 - [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot)
 
-**Web Development**
+**Web Development in Vanilla HTML, CSS, JavaScript**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
 
 ###### Status Ongoing
