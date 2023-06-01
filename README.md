@@ -29,7 +29,7 @@
 - [Chateau Du Nox](https://github.com/NightfuryEquinn/Chateau-Du-Nox)
 
 **Kotlin**
-- TBC
+- [Chronos](https://github.com/NightfuryEquinn/Chronos)
 
 **R Programming**
 - [A Placement Analysis](https://github.com/NightfuryEquinn/A-Placement-Analysis)
