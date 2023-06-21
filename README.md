@@ -22,7 +22,7 @@
 - [Les Pets Shop](https://github.com/NightfuryEquinn/Online-Pet-Shop-Assignment)
 - [Bean Bros Wholesaler](https://github.com/NightfuryEquinn/Bean-Bros-Wholesaler)
 
-**Web Development in ReactJS, TailwindCSS, JavaScript (C# Database)**
+**Web Development (C# Database)**
 - [Kohedemy](https://github.com/NightfuryEquinn/Kohedemy)
 
 **Swift**
