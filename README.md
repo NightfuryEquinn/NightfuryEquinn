@@ -7,6 +7,7 @@
 - The more I learnt, the happier I am.
 - Achievement-affiliated.
 - Sometimes might speak about Physics or Astronomy for no reason.
+- Tends to change topics very fast but will try to keep on business.
 
 <hr/>
 
@@ -65,6 +66,6 @@
 
 <hr/>
 
-<h4 align="center">
-    <b>End of Overview</b>
-</h4>
+<h1 align="center">
+    <b>♋️ End of Overview ♋️</b>
+</h1>
