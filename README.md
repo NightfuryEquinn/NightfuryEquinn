@@ -48,8 +48,11 @@
 **Web Development in Vanilla HTML, CSS, JavaScript**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
 
-###### Status Ongoing
+**3D Web Development in React Three Fiber**
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II)
+
+###### Status Ongoing
+- [MOFE](https://github.com/NightfuryEquinn/MOFE)
 
 ###### Status Upcoming
 - Discord Gamble Bot Mark II
