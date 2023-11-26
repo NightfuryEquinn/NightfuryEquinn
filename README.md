@@ -51,8 +51,6 @@
 ###### Status Ongoing
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II)
 
-IFrames: [About Me](https://github.com/NightfuryEquinn/ME-Website-II-About)
-
 ###### Status Upcoming
 - Discord Gamble Bot Mark II
 - Hundred Days Vineyard Simulator - Wine Star Component References
