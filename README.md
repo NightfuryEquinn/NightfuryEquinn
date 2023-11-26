@@ -49,7 +49,7 @@
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
 
 **3D Web Development in React Three Fiber**
-- [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II)
+- [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/)
 
 ###### Status Ongoing
 - [MOFE](https://github.com/NightfuryEquinn/MOFE)
