@@ -45,6 +45,9 @@
 **Python**
 - [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot)
 
+**React Native**
+- [MOFE](https://github.com/NightfuryEquinn/MOFE)
+
 **Web Development in Vanilla HTML, CSS, JavaScript**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
 
@@ -52,7 +55,7 @@
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/)
 
 ###### Status Ongoing
-- [MOFE](https://github.com/NightfuryEquinn/MOFE)
+- Idle
 
 ###### Status Upcoming
 - Discord Gamble Bot Mark II
