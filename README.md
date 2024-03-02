@@ -68,7 +68,7 @@
 - [AWS Deepracer League](https://github.com/NightfuryEquinn/AWS-Deepracer)
 
 **Workshop**
-- [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop)
+- [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop) - [Redirect](https://nightfuryequinn.github.io/Git-GitHub-Workshop/)
 
 <hr/>
 
