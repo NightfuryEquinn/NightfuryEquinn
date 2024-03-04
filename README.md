@@ -55,7 +55,13 @@
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/)
 
 ###### Status Ongoing
-- Idle
+📓 **_University Assignments_**
+- Chateau Du Nox Website
+- Raw2Plate: Fuel++
+
+🍵 **_Self Projects_**
+- MOFE Version 2.0 & 3.0
+- ME-Website II Revamp Redesign
 
 ###### Status Upcoming
 - Discord Gamble Bot Mark II
