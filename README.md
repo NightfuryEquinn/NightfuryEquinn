@@ -57,7 +57,7 @@
 ###### Status Ongoing
 📓 **_University Assignments_**
 - Chateau Du Nox Website
-- Raw2Plate: Fuel+
+- Raw2Plate Fuel+
 
 🍵 **_Self Projects_**
 - MOFE Version 2.0 & 3.0
