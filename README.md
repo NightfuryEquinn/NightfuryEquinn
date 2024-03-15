@@ -56,7 +56,7 @@
 
 ###### Status Ongoing
 📓 **_University Assignments_**
-- Chateau Du Nox Website
+- [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web)
 - Raw2Plate Fuel+
 
 🍵 **_Self Projects_**
