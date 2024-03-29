@@ -57,13 +57,16 @@
 ###### Status Ongoing
 📓 **_University Assignments_**
 - [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web)
-- Raw2Plate Fuel+
+- [Iactare](https://github.com/NightfuryEquinn/Iactare)
+- [Iactare Netcore](https://github.com/NightfuryEquinn/Iactare-Netcore)
+- [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
+- [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore)
 
 🍵 **_Self Projects_**
 - MOFE Version 2.0 & 3.0
-- ME-Website II Revamp Redesign
 
 ###### Status Upcoming
+- ME-Website II Revamp Redesign
 - Discord Gamble Bot Mark II
 - Hundred Days Vineyard Simulator - Wine Star Component References
 
