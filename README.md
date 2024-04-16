@@ -57,8 +57,8 @@
 ###### Status Ongoing
 📓 **_University Assignments_**
 - [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web)
-- [Iactare](https://github.com/NightfuryEquinn/Iactare)
-- [Iactare Netcore](https://github.com/NightfuryEquinn/Iactare-Netcore)
+- [HaulEase](https://github.com/NightfuryEquinn/HaulEase)
+- [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
 - [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
 - [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore)
 
