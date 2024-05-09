@@ -25,6 +25,7 @@
 
 **Web Development (C# Database)**
 - [Kohedemy](https://github.com/NightfuryEquinn/Kohedemy)
+- [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web)
 
 **Swift**
 - [Chateau Du Nox](https://github.com/NightfuryEquinn/Chateau-Du-Nox)
@@ -56,7 +57,6 @@
 
 ###### Status Ongoing
 📓 **_University Assignments_**
-- [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web)
 - [HaulEase](https://github.com/NightfuryEquinn/HaulEase)
 - [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
 - [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
