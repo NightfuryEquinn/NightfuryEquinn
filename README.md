@@ -32,12 +32,16 @@
 
 **Kotlin**
 - [Chronos](https://github.com/NightfuryEquinn/Chronos)
+- [HaulEase](https://github.com/NightfuryEquinn/HaulEase)
 
 **R Programming**
 - [A Placement Analysis](https://github.com/NightfuryEquinn/A-Placement-Analysis)
 
 **Unity C#**
 - [Where's My Ingredients?](https://github.com/NightfuryEquinn/WhereAreMyIngredients)
+
+**Amazon RDS API C#**
+- [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
 
 <hr/>
 
@@ -57,8 +61,6 @@
 
 ###### Status Ongoing
 📓 **_University Assignments_**
-- [HaulEase](https://github.com/NightfuryEquinn/HaulEase)
-- [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
 - [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
 - [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore)
 
