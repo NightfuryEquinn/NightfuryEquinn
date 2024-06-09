@@ -40,7 +40,7 @@
 **Unity C#**
 - [Where's My Ingredients?](https://github.com/NightfuryEquinn/WhereAreMyIngredients)
 
-**Amazon RDS API C#**
+**API C#**
 - [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
 
 <hr/>
