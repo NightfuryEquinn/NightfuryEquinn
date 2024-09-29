@@ -41,8 +41,14 @@
 **Unity C#**
 - [Where's My Ingredients?](https://github.com/NightfuryEquinn/WhereAreMyIngredients)
 
+**React Native**
+- [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
+
+**Flutter**
+
 **API C#**
 - [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
+- [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore)
 
 ### 🍵 Self Projects
 **Python**
@@ -67,8 +73,8 @@
 <hr />
 
 ## ⌛️ Status Ongoing
-- [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
-- [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore)
+
+- [Findrobe](https://github.com/NightfuryEquinn/Findrobe)
 
 <hr />
 
