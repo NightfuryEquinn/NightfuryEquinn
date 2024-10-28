@@ -55,7 +55,7 @@
 **Python**
 - [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot)
 
-**React Native**
+**Flutter**
 
 **Web Development in Vanilla HTML, CSS, JavaScript**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
