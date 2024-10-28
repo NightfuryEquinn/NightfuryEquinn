@@ -45,6 +45,7 @@
 - [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus)
 
 **Flutter**
+- [Findrobe](https://github.com/NightfuryEquinn/Findrobe)
 
 **API C#**
 - [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore)
@@ -74,7 +75,7 @@
 
 ## ⌛️ Status Ongoing
 
-- [Findrobe](https://github.com/NightfuryEquinn/Findrobe)
+
 
 <hr />
 
