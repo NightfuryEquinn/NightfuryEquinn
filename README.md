@@ -56,6 +56,7 @@
 - [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot)
 
 **Flutter**
+- [MOFE](https://github.com/NightfuryEquinn/MOFE)
 
 **Web Development in Vanilla HTML, CSS, JavaScript**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
@@ -73,14 +74,11 @@
 <hr />
 
 ## ⌛️ Status Ongoing
-
-- [MOFE](https://github.com/NightfuryEquinn/MOFE)
+- ME-Website II Revamp Redesign
 
 <hr />
 
 ## 📆 Status Upcoming
-- ME-Website II Revamp Redesign
-- Discord Gamble Bot Mark II
 - Hundred Days Vineyard Simulator - Wine Star Component References
 
 <hr/>
