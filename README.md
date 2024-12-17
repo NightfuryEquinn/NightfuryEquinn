@@ -79,7 +79,7 @@
 <hr />
 
 ## 📆 Status Upcoming
-- Hundred Days Vineyard Simulator - Wine Star Component References
+- Grapes Wine Library with Gemini API and MongoDB
 
 <hr/>
 
