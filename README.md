@@ -20,11 +20,11 @@
 - [Serenitea Resort Booking System](https://github.com/NightfuryEquinn/Serenitea-Resort-Booking-System)
 - [Speed Parcel Online Order and Delivery Management System](https://github.com/NightfuryEquinn/Speed-Parcel-OODMS)
 
-**Web Development in Vanilla HTML, CSS, JavaScript (WAMP Database)**
+**Fullstack Web-PHP Development**
 - [Les Pets Shop](https://github.com/NightfuryEquinn/Online-Pet-Shop-Assignment)
 - [Bean Bros Wholesaler](https://github.com/NightfuryEquinn/Bean-Bros-Wholesaler)
 
-**Web Development (C# Database)**
+**Fullstack Web-C# Development**
 - [Kohedemy](https://github.com/NightfuryEquinn/Kohedemy)
 - [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web)
 
@@ -58,10 +58,11 @@
 **Flutter**
 - [MOFE](https://github.com/NightfuryEquinn/MOFE)
 
-**Web Development in Vanilla HTML, CSS, JavaScript**
+**Web Development**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
+- [ME-Website](https://github.com/NightfuryEquinn/ME-Website-II-Embedded) - [Redirect](https://me-website-ii-embedded.vercel.app/)
 
-**3D Web Development in React Three Fiber**
+**3D Web Development**
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/)
 
 ### ⛳️ External Events
