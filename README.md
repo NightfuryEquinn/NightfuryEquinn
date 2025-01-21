@@ -60,7 +60,7 @@
 
 **Web Development**
 - [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/)
-- [ME-Website](https://github.com/NightfuryEquinn/ME-Website-II-Embedded) - [Redirect](https://me-website-ii-embedded.vercel.app/)
+- [ME-Website II Embedded](https://github.com/NightfuryEquinn/ME-Website-II-Embedded) - [Redirect](https://me-website-ii-embedded.vercel.app/)
 
 **3D Web Development**
 - [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/)
