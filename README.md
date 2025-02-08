@@ -39,9 +39,14 @@
 | [ME-Website II Embedded](https://github.com/NightfuryEquinn/ME-Website-II-Embedded) - [Redirect](https://me-website-ii-embedded.vercel.app/) | NextJS | ✅ |
 | Grapes Wine Library with Gemini API and MongoDB | React Native Expo | ⌛️ |
 
+## 🔥 Playground
+| 🎮 Repository | 📖 Language |
+| --- | --- |
+| [Swift Playground](https://github.com/NightfuryEquinn/Swift-Playground) | Swift |
+| [R-Playground](https://github.com/NightfuryEquinn/R-Playground) | R |
+
 ## 🔥 External Events
 | ⛳️ Repository | 📖 Language | 📜 Status |
 | --- | --- | :-: |
 | [AWS Deepracer League](https://github.com/NightfuryEquinn/AWS-Deepracer) | Python | ✅ |
 | [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop) - [Redirect](https://nightfuryequinn.github.io/Git-GitHub-Workshop/) | HTML, CSS | ✅ |
-
