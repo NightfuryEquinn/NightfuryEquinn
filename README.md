@@ -44,6 +44,7 @@
 | --- | --- |
 | [Swift Playground](https://github.com/NightfuryEquinn/Swift-Playground) | Swift |
 | [R-Playground](https://github.com/NightfuryEquinn/R-Playground) | R |
+| Procedural-Terrain-Playground (Private) | JavaScript |
 
 ## 🔥 External Events
 | ⛳️ Repository | 📖 Language | 📜 Status |
