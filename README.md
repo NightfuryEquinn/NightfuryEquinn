@@ -35,7 +35,7 @@
 | [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot) | Python | ✅ |
 | [MOFE](https://github.com/NightfuryEquinn/MOFE) | Flutter | ✅ |
 | [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/) | HTML, CSS, JavaScript | ✅ |
-| [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system.vercel.app/) | R3F | ✅ |
+| [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system-swart.vercel.app/) | R3F | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | NextJS | ✅ |
 | Grapes Wine Library with Gemini API and MongoDB | React Native Expo | ⌛️ |
 
