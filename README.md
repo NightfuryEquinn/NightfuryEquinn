@@ -46,6 +46,7 @@
 | [R-Playground](https://github.com/NightfuryEquinn/R-Playground) | R |
 | Procedural-Terrain-Playground (Private) | JavaScript |
 | 3D-Game-Playground (Private) | JavaScript |
+| Wine Recommendation AI Model Playground | Python |
 
 ## 🔥 External Events
 | ⛳️ Repository | 📖 Language | 📜 Status |
