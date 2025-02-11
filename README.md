@@ -37,7 +37,7 @@
 | [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/) | HTML, CSS, JavaScript | ✅ |
 | [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system-swart.vercel.app/) | R3F | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | NextJS | ✅ |
-| Grapes Wine Library with Gemini API and MongoDB | React Native Expo | ⌛️ |
+| [SommelAIer](https://github.com/NightfuryEquinn/SommelAIer) | React Native Expo | ⌛️ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
@@ -46,7 +46,7 @@
 | [R-Playground](https://github.com/NightfuryEquinn/R-Playground) | R |
 | Procedural-Terrain-Playground (Private) | JavaScript |
 | 3D-Game-Playground (Private) | JavaScript |
-| Wine Recommendation AI Model Playground | Python |
+| [Wine-Recommendation-AI-Model-Playground](https://github.com/NightfuryEquinn/Wine-Recommendation-AI-Model-Playground) | Python |
 
 ## 🔥 External Events
 | ⛳️ Repository | 📖 Language | 📜 Status |
