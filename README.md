@@ -37,7 +37,7 @@
 | [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/) | HTML, CSS, JavaScript | ✅ |
 | [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system-swart.vercel.app/) | R3F | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | NextJS | ✅ |
-| [SommelAIer](https://github.com/NightfuryEquinn/SommelAIer) | React Native Expo | ⌛️ |
+| [SommelAIer](https://github.com/NightfuryEquinn/SommelAIer) | NextJS | ⌛️ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
