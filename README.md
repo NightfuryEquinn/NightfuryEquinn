@@ -38,6 +38,7 @@
 | [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system-swart.vercel.app/) | R3F | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | NextJS | ✅ |
 | [SommelAIer](https://github.com/NightfuryEquinn/SommelAIer) | NextJS | ⌛️ |
+| [Futuristic-UI]() | NPM Package | ⌛️ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
