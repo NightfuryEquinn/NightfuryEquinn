@@ -54,3 +54,4 @@
 | --- | --- | :-: |
 | [AWS Deepracer League](https://github.com/NightfuryEquinn/AWS-Deepracer) | Python | ✅ |
 | [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop) - [Redirect](https://nightfuryequinn.github.io/Git-GitHub-Workshop/) | HTML, CSS | ✅ |
+| [The-Reed](https://github.com/NightfuryEquinn/The-Reed) | React Native | ⌛️ |
