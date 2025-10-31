@@ -12,49 +12,50 @@
 ## 🔥 University Assignments
 | 📓 Repository | 📖 Language | 📜 Status |
 | --- | --- | :-: |
-| [Rental Car Service Program](https://github.com/NightfuryEquinn/Rental-Car-Service-Program) | Python | ✅ |
-| [Serenitea Resort Booking System](https://github.com/NightfuryEquinn/Serenitea-Resort-Booking-System) | Java | ✅ |
-| [Speed Parcel Online Order and Delivery Management System](https://github.com/NightfuryEquinn/Speed-Parcel-OODMS) | Java | ✅ |
-| [Les Pets Shop](https://github.com/NightfuryEquinn/Online-Pet-Shop-Assignment) | PHP | ✅ |
-| [Bean Bros Wholesaler](https://github.com/NightfuryEquinn/Bean-Bros-Wholesaler) | PHP | ✅ |
-| [Kohedemy](https://github.com/NightfuryEquinn/Kohedemy) | C# | ✅ |
-| [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web) | C# | ✅ |
-| [Where's My Ingredients?](https://github.com/NightfuryEquinn/WhereAreMyIngredients) | C# | ✅ |
-| [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore) | C# | ✅ |
-| [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore) | C# | ✅ |
-| [Chateau Du Nox](https://github.com/NightfuryEquinn/Chateau-Du-Nox) | Swift | ✅ |
-| [Chronos](https://github.com/NightfuryEquinn/Chronos) | Kotlin | ✅ |
-| [HaulEase](https://github.com/NightfuryEquinn/HaulEase) | Kotlin | ✅ |
-| [A Placement Analysis](https://github.com/NightfuryEquinn/A-Placement-Analysis) | R | ✅ |
-| [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus) | React Native | ✅ |
-| [Findrobe](https://github.com/NightfuryEquinn/Findrobe) | Flutter | ✅ |
+| [Rental Car Service Program](https://github.com/NightfuryEquinn/Rental-Car-Service-Program) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
+| [Serenitea Resort Booking System](https://github.com/NightfuryEquinn/Serenitea-Resort-Booking-System) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> | ✅ |
+| [Speed Parcel Online Order and Delivery Management System](https://github.com/NightfuryEquinn/Speed-Parcel-OODMS) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> | ✅ |
+| [Les Pets Shop](https://github.com/NightfuryEquinn/Online-Pet-Shop-Assignment) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/php.png" alt="php" height="50" width="50" /> | ✅ |
+| [Bean Bros Wholesaler](https://github.com/NightfuryEquinn/Bean-Bros-Wholesaler) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/php.png" alt="php" height="50" width="50" /> | ✅ |
+| [Kohedemy](https://github.com/NightfuryEquinn/Kohedemy) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="c#" height="50" width="50" /> | ✅ |
+| [Chateau Du Nox Website](https://github.com/NightfuryEquinn/Chateau-Du-Nox-Web) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="c#" height="50" width="50" /> | ✅ |
+| [Where's My Ingredients?](https://github.com/NightfuryEquinn/WhereAreMyIngredients) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="c#" height="50" width="50" /> | ✅ |
+| [HaulEase Netcore](https://github.com/NightfuryEquinn/HaulEase-Netcore) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="c#" height="50" width="50" /> | ✅ |
+| [Raw2Plate Fuel+ Netcore](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus-Netcore) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%23.svg" alt="c#" height="50" width="50" /> | ✅ |
+| [Chateau Du Nox](https://github.com/NightfuryEquinn/Chateau-Du-Nox) | <img src="https://www.svgrepo.com/show/374112/swift.svg" alt="swift" height="50" width="50" /> | ✅ |
+| [Chronos](https://github.com/NightfuryEquinn/Chronos) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/kotlin.svg" alt="kotlin" height="50" width="50" /> | ✅ |
+| [HaulEase](https://github.com/NightfuryEquinn/HaulEase) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/kotlin.svg" alt="kotlin" height="50" width="50" /> | ✅ |
+| [A Placement Analysis](https://github.com/NightfuryEquinn/A-Placement-Analysis) | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" alt="r" height="50" width="50" /> | ✅ |
+| [Raw2Plate Fuel+](https://github.com/NightfuryEquinn/Raw2Plate-Fuel-Plus) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/react.svg" alt="react" height="50" width="50" /> | ✅ |
+| [Findrobe](https://github.com/NightfuryEquinn/Findrobe) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/flutter.svg" alt="flutter" height="50" width="50" /> | ✅ |
 
 ## 🔥 Self Projects
 | 🍵 Repository | 📖 Language | 📜 Status |
 | --- | --- | :-: |
-| [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot) | Python | ✅ |
-| [MOFE](https://github.com/NightfuryEquinn/MOFE) | Flutter | ✅ |
-| [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/) | Vanilla HTML, CSS, JS | ✅ |
-| [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system-swart.vercel.app/) | R3F | ✅ |
-| [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | NextJS | ✅ |
-| [SommelAIer](https://github.com/NightfuryEquinn/SommelAIer) | NextJS | ⌛️ |
-| [RTC-Made-Simple](https://github.com/NightfuryEquinn/RTC-Made-Simple) | NPM Package | ✅ |
+| [Discord Gamble Bot](https://github.com/NightfuryEquinn/Discord-Gamble-Bot) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
+| [MOFE](https://github.com/NightfuryEquinn/MOFE) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/flutter.svg" alt="flutter" height="50" width="50" /> | ✅ |
+| [ME-Website](https://github.com/NightfuryEquinn/ME-Website) - [Redirect](https://nightfuryequinn.github.io/ME-Website/) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="html5" height="50" width="50" /> | ✅ |
+| [Star System](https://github.com/NightfuryEquinn/Star-System) - [Redirect](https://star-system-swart.vercel.app/) | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ✅ |
+| [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
+| [SommelAIer](https://github.com/NightfuryEquinn/SommelAIer) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
+| [RTC-Made-Simple](https://github.com/NightfuryEquinn/RTC-Made-Simple) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/npm.svg" alt="npm" height="50" width="50" /> | ✅ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
 | --- | --- |
-| [Swift Playground](https://github.com/NightfuryEquinn/Swift-Playground) | Swift |
-| [R-Playground](https://github.com/NightfuryEquinn/R-Playground) | R |
-| Procedural-Terrain-Playground (Private) | JavaScript |
-| 3D-Game-Playground (Private) | JavaScript |
-| [AI-Model-Playground](https://github.com/NightfuryEquinn/AI-Model-Playground) | Python |
+| [Swift Playground](https://github.com/NightfuryEquinn/Swift-Playground) | <img src="https://www.svgrepo.com/show/374112/swift.svg" alt="swift" height="50" width="50" /> |
+| [R-Playground](https://github.com/NightfuryEquinn/R-Playground) | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" alt="r" height="50" width="50" /> |
+| Procedural-Terrain-Playground (Private) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="javascript" height="50" width="50" /> |
+| 3D-Game-Playground (Private) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="javascript" height="50" width="50" /> |
+| [AI-Model-Playground](https://github.com/NightfuryEquinn/AI-Model-Playground) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> |
+| [Master-Playground](https://github.com/NightfuryEquinn/Master-Playground) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> |
 
 ## 🔥 External Events
 | ⛳️ Repository | 📖 Language | 📜 Status |
 | --- | --- | :-: |
-| [AWS Deepracer League](https://github.com/NightfuryEquinn/AWS-Deepracer) | Python | ✅ |
-| [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop) - [Redirect](https://nightfuryequinn.github.io/Git-GitHub-Workshop/) | HTML, CSS | ✅ |
-| [The-Reed](https://github.com/NightfuryEquinn/The-Reed) | React Native | ❌ |
+| [AWS Deepracer League](https://github.com/NightfuryEquinn/AWS-Deepracer) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
+| [Git-GitHub-Workshop](https://github.com/NightfuryEquinn/Git-GitHub-Workshop) - [Redirect](https://nightfuryequinn.github.io/Git-GitHub-Workshop/) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="html5" height="50" width="50" /> | ✅ |
+| [The-Reed](https://github.com/NightfuryEquinn/The-Reed) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/react.svg" alt="react" height="50" width="50" /> | ❌ |
 
 ### Agenda
 ✅ Completed
