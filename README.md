@@ -49,7 +49,7 @@
 | [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
 | [Noise](https://github.com/NightfuryEquinn/Noise) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
-| [Ledger Schedul](https://github.com/NightfuryEquinn/Ledger-Schedul) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
+| [Ledger Schedul](https://github.com/NightfuryEquinn/Ledger-Schedul) - [Redirect](https://ledger-schedul.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
