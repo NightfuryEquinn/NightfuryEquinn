@@ -30,7 +30,7 @@
 | [Findrobe](https://github.com/NightfuryEquinn/Findrobe) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/flutter.svg" alt="flutter" height="50" width="50" /> | ✅ |
 | [Med-VQA-AML](https://github.com/NightfuryEquinn/Med-VQA-AML) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
 | [Malaysian-Sign-Language](https://github.com/NightfuryEquinn/Malaysian-Sign-Language) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
-| [Ridership](https://github.com/NightfuryEquinn/Ridership) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ⌛️ |
+| [Ridership](https://github.com/NightfuryEquinn/Ridership) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
 | [Bot-Detect](https://github.com/NightfuryEquinn/Bot-Detect) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
 | [Gefera](https://github.com/NightfuryEquinn/Gefera) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> | ✅ |
 
@@ -49,7 +49,7 @@
 | [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
 | [Noise](https://github.com/NightfuryEquinn/Noise) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
-| [Ledger Schedul](https://github.com/NightfuryEquinn/Ledger-Schedul) - [Redirect](https://ledger-schedul.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
+| [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) - [Redirect](https://sched-ledger.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
