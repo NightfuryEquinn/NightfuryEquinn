@@ -44,12 +44,12 @@
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) - [Redirect](https://me-website-ii.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
 | [RTC-Made-Simple](https://github.com/NightfuryEquinn/RTC-Made-Simple) | <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/npm.svg" alt="npm" height="50" width="50" /> | ✅ |
 | [ME-Website III](https://github.com/NightfuryEquinn/ME-Website-III) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
+| [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) - [Redirect](https://oppenheimer-gamma.vercel.app/) | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ✅ |
+| [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) - [Redirect](https://sched-ledger.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
 | [Infinite](https://github.com/NightfuryEquinn/Infinite) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
 | [Muefolio](https://github.com/NightfuryEquinn/Muefolio) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
-| [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
-| [Journal](https://github.com/NightfuryEquinn/Journal) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
 | [Noise](https://github.com/NightfuryEquinn/Noise) - [Redirect]() | <img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" alt="r3f" height="50" width="50" /> | ⌛️ |
-| [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) - [Redirect](https://sched-ledger.vercel.app/) | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ✅ |
+| [Journal](https://github.com/NightfuryEquinn/Journal) - [Redirect]() | <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" height="50" width="50" /> | ⌛️ |
 
 ## 🔥 Playground
 | 🎮 Repository | 📖 Language |
