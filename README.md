@@ -73,7 +73,7 @@ A humble quantum enthusiast specialized in full-stack mobile development, contri
 | [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) ([live](https://sched-ledger.vercel.app/)) | ▲ Next.js | ✅ |
 | [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) ([live](https://oppenheimer-gamma.vercel.app/)) | 🔺 R3F | ✅ |
 | [Infinite](https://github.com/NightfuryEquinn/Infinite) ([live](https://infinite-eosin.vercel.app/)) | 🔺 R3F | ✅ |
-| [Noise](https://github.com/NightfuryEquinn/Noise) ([live](https://noise-ochre.vercel.app/)) | 🔺 R3F | ⌛️ |
+| [Noise](https://github.com/NightfuryEquinn/Noise) ([live](https://noise-ochre.vercel.app/)) | 🔺 R3F | ✅ |
 | [Muefolio](https://github.com/NightfuryEquinn/Muefolio) | ▲ Next.js | ⌛️ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) | ▲ Next.js | ⌛️ |
 
