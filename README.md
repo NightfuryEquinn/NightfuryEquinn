@@ -75,7 +75,7 @@ A humble quantum enthusiast specialized in full-stack mobile development, contri
 | [Infinite](https://github.com/NightfuryEquinn/Infinite) ([live](https://infinite-eosin.vercel.app/)) | 🔺 R3F | ✅ |
 | [Noise](https://github.com/NightfuryEquinn/Noise) ([live](https://noise-ochre.vercel.app/)) | 🔺 R3F | ✅ |
 | [Muefolio](https://github.com/NightfuryEquinn/Muefolio) | ⚛️ React | ⌛️ |
-| [Journal](https://github.com/NightfuryEquinn/Journal) | ⚛️ React | ⌛️ |
+| [Journal](https://github.com/NightfuryEquinn/Journal) | ⚛️ React | ✅ |
 
 </details>
 
