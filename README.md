@@ -69,12 +69,12 @@ A humble quantum enthusiast specialized in full-stack mobile development, contri
 | [MOFE](https://github.com/NightfuryEquinn/MOFE) | 🦋 Flutter | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) ([live](https://me-website-ii.vercel.app/)) | ▲ Next.js | ✅ |
 | [RTC-Made-Simple](https://github.com/NightfuryEquinn/RTC-Made-Simple) | 📦 npm | ✅ |
-| [ME-Website III](https://github.com/NightfuryEquinn/ME-Website-III) | ▲ Next.js | ⌛️ |
+| [ME-Website III](https://github.com/NightfuryEquinn/ME-Website-III) ([live]()) | ▲ Next.js | ⌛️ |
 | [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) ([live](https://sched-ledger.vercel.app/)) | ⚛️ React | ✅ |
 | [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) ([live](https://oppenheimer-gamma.vercel.app/)) | 🔺 R3F | ✅ |
 | [Infinite](https://github.com/NightfuryEquinn/Infinite) ([live](https://infinite-eosin.vercel.app/)) | 🔺 R3F | ✅ |
 | [Noise](https://github.com/NightfuryEquinn/Noise) ([live](https://noise-ochre.vercel.app/)) | 🔺 R3F | ✅ |
-| [Muefolio](https://github.com/NightfuryEquinn/Muefolio) | ⚛️ React | ⌛️ |
+| [Muefolio](https://github.com/NightfuryEquinn/Muefolio) ([live]()) | ⚛️ React | ⌛️ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) ([live](https://journal-beige-three.vercel.app/)) | ⚛️ React | ✅ |
 
 </details>
