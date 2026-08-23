@@ -119,6 +119,7 @@
 | [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) ([live](https://sched-ledger.vercel.app/)) | ⚛️ React | ✅ |
 | [Muefolio](https://github.com/NightfuryEquinn/Muefolio) ([live]()) | ⚛️ React | ⌛️ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) ([live](https://journal-beige-three.vercel.app/)) | ⚛️ React | ✅ |
+| [Sector NULL](https://github.com/NightfuryEquinn/Sector-Null) ([live](https://sector-null.vercel.app/)) | ⚛️ React | ✅ |
 
 #### 🛠️ Apps, Bots & Packages
 | Repository | Language | Status |
