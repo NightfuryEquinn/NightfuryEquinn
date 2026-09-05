@@ -116,7 +116,7 @@
 | [ME-Website](https://github.com/NightfuryEquinn/ME-Website) ([live](https://nightfuryequinn.github.io/ME-Website/)) | 🌐 HTML5 | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) ([live](https://me-website-ii.vercel.app/)) | ▲ Next.js | ✅ |
 | [ME-Website III](https://github.com/NightfuryEquinn/ME-Website-III) ([live]()) | ▲ Next.js | ⌛️ |
-| [Sched Ledger](https://github.com/NightfuryEquinn/Sched-Ledger) ([live](https://sched-ledger.vercel.app/)) | ⚛️ React | ✅ |
+| [Custos](https://github.com/NightfuryEquinn/Custos) ([live](https://custos.vercel.app/)) | ⚛️ React | ✅ |
 | [Muefolio](https://github.com/NightfuryEquinn/Muefolio) ([live]()) | ⚛️ React | ⌛️ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) ([live](https://journal-beige-three.vercel.app/)) | ⚛️ React | ✅ |
 | [Sector NULL](https://github.com/NightfuryEquinn/Sector-Null) ([live](https://sector-null.vercel.app/)) | ⚛️ React | ✅ |
