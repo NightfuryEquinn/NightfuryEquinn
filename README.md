@@ -111,7 +111,7 @@
 | --- | :-: | :-: |
 | [Star System](https://github.com/NightfuryEquinn/Star-System) ([live](https://star-system-swart.vercel.app/)) | 🔺 R3F | ✅ |
 | [Oppenheimer](https://github.com/NightfuryEquinn/Oppenheimer) ([live](https://oppenheimer-gamma.vercel.app/)) | 🔺 R3F | ✅ |
-| [Infinite](https://github.com/NightfuryEquinn/Infinite) ([live](https://infinite-eosin.vercel.app/)) | 🔺 R3F | ✅ |
+| [Infinite](https://github.com/NightfuryEquinn/Infinite) | 🔺 R3F | ✅ |
 | [Noise](https://github.com/NightfuryEquinn/Noise) ([live](https://noise-ochre.vercel.app/)) | 🔺 R3F | ✅ |
 | [ME-Website](https://github.com/NightfuryEquinn/ME-Website) ([live](https://nightfuryequinn.github.io/ME-Website/)) | 🌐 HTML5 | ✅ |
 | [ME-Website II](https://github.com/NightfuryEquinn/ME-Website-II) ([live](https://me-website-ii.vercel.app/)) | ▲ Next.js | ✅ |
