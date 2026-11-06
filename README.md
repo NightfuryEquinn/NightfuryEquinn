@@ -120,6 +120,7 @@
 | [Journal](https://github.com/NightfuryEquinn/Journal) | ⚛️ React | ✅ |
 | [Sector NULL](https://github.com/NightfuryEquinn/Sector-Null) ([live](https://sector-null.vercel.app/)) | ⚛️ React | ✅ |
 | [Tarot](https://github.com/NightfuryEquinn/Tarot) ([live]()) | ▲ Next.js | ⌛️ |
+| [Musebox](https://github.com/NightfuryEquinn/Musebox) ([live]()) | ▲ Next.js | ⌛️ |
 
 #### 🛠️ Apps, Bots & Packages
 | Repository | Language | Status |
