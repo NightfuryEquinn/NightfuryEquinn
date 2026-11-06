@@ -119,6 +119,7 @@
 | [Custos](https://github.com/NightfuryEquinn/Custos) ([live](https://custos.vercel.app/)) | ⚛️ React | ✅ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) | ⚛️ React | ✅ |
 | [Sector NULL](https://github.com/NightfuryEquinn/Sector-Null) ([live](https://sector-null.vercel.app/)) | ⚛️ React | ✅ |
+| [Tarot](https://github.com/NightfuryEquinn/Tarot) ([live]()) | ▲ Next.js | ⌛️ |
 
 #### 🛠️ Apps, Bots & Packages
 | Repository | Language | Status |
