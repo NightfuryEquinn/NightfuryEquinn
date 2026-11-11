@@ -119,8 +119,8 @@
 | [Custos](https://github.com/NightfuryEquinn/Custos) ([live](https://custos.vercel.app/)) | ⚛️ React | ✅ |
 | [Journal](https://github.com/NightfuryEquinn/Journal) | ⚛️ React | ✅ |
 | [Sector NULL](https://github.com/NightfuryEquinn/Sector-Null) ([live](https://sector-null.vercel.app/)) | ⚛️ React | ✅ |
-| [Tarot](https://github.com/NightfuryEquinn/Tarot) ([live]()) | ▲ Next.js | ⌛️ |
-| [Musebox](https://github.com/NightfuryEquinn/Musebox) ([live]()) | ▲ Next.js | ⌛️ |
+| [Tarot](https://github.com/NightfuryEquinn/Tarot) ([live](https://midnight-arcana.nightfuryequinn.app/)) | ▲ Next.js | ✅ |
+| [Musebox](https://github.com/NightfuryEquinn/Musebox) | ▲ Next.js | ✅ |
 
 #### 🛠️ Apps, Bots & Packages
 | Repository | Language | Status |
